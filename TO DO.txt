@@ -1,0 +1,9 @@
+To do:
+
+(optional stuff)
+
+- make background for menu
+- create linked list.h and rewrite path finding with it
+
+Zombie:
+- do zombie collision (with use of walkable in path finding)

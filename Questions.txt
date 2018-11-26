@@ -1,0 +1,3 @@
+Questions:
+
+When to use SDL_Log, printf().
